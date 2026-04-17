@@ -1,4 +1,6 @@
-# HAMZA WAS HERE. 
+# HAMZA WAS HERE. #
+# COFFEE IS YUMMYEST. #
+# CODING IS PHUN! #
 
 # How to Create an Easy App with No Coding Experience 🚀
 
