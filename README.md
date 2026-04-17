@@ -1,3 +1,5 @@
+# HAMZA WAS HERE. 
+
 # How to Create an Easy App with No Coding Experience 🚀
 
 In this series, we’ll go over creating real software with AI — and I’ll teach it as if you have zero coding experience.  
